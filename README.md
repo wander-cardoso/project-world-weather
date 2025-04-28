@@ -32,12 +32,12 @@ To get a local copy up and running follow these simple example steps.
 
 1- Clone the repository in your local machine:
 ```
-$ git clone git@github.com:ahzamir/weather-condition-app.git
+$ git clone https://github.com/wander-cardoso/project-world-weather.git
 ```
 
 2- Go to the repository folder of weather-condition-app in your command prompt:
 ```
-$ cd weather-condition-app
+$ cd project-world-weather
 ```
 
 3- You might need to install dependecies with:
