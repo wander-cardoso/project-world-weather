@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<header
+  className="w-100"
+>
+  <nav
+    className="navbar navbar-expand-lg navbar-dark"
+  >
+    <div
+      className="d-flex justify-content-between align-items-center w-100 list-style-none p-3 p-md-3"
+    >
+      <div
+        className="d-flex align-items-center justify-content-between"
+      >
+        <a
+          aria-current="page"
+          className="active"
+          exact="true"
+          href="/"
+          onClick={[Function]}
+        >
+          <svg
+            className="text-white fs-5 me-2 fw-bold"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 512 512"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M328 112L184 256l144 144"
+              fill="none"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="48"
+            />
+          </svg>
+        </a>
+        <a
+          aria-current="page"
+          className="text-white fs-5 fw-bold text-decoration-none active"
+          exact="true"
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </div>
+      <div
+        className="d-flex align-items-center justify-content-between"
+      >
+        <h1
+          className="text-white fs-5 fw-bold"
+        >
+          World Weather
+        </h1>
+      </div>
+    </div>
+  </nav>
+</header>
+`;
